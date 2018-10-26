@@ -1,2 +1,2 @@
 # Statistic_Coursera
-Statistics assignment
+The statistics course of Duke Univ.
