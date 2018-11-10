@@ -85,14 +85,16 @@ Part 3: Exploratory data analysis
     
     ggplot(satjobRichwork,aes(x=satjob,fill=richwork))+geom_bar(position = "dodge")
 
-![](stat_inf_project_files/figure-markdown_strict/unnamed-chunk-3-1.png)
+![unnamed-chunk-3-1](https://user-images.githubusercontent.com/35673431/48299570-f1e01780-e511-11e8-9257-c9ab1fbced27.png)
 
 Above bar plot shows counts of continue working or not of each levels in
 'satjob' variable.
 
     ggplot(satjobRichwork,aes(x=satjob,fill=richwork))+geom_bar(position = "fill")
 
-![](stat_inf_project_files/figure-markdown_strict/unnamed-chunk-4-1.png)
+![unnamed-chunk-4-1](https://user-images.githubusercontent.com/35673431/48299573-0fad7c80-e512-11e8-8541-9e9a7bf3fb88.png)
+
+
 
 Above bar plot shows proportion of continue working or not of each
 levels in 'satjob' variable.
